@@ -5,3 +5,5 @@ https://ciamac-da.github.io/hangman-game-vanilla-js/
 ![](assets/2.jpg)
 
 ![](assets/3.jpg)
+
+![](assets/4.jpg)
